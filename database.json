@@ -1,0 +1,32 @@
+[
+    {
+        "cliente": "Arthur",
+        "descricao": "Reparo Geral",
+        "status": "Aberto",
+        "valor": 0.0,
+        "data_abertura": "24/04/2026 02:01",
+        "data_finalizacao": null,
+        "dispositivo": {
+            "tipo": "Computador",
+            "marca": "Dell",
+            "modelo": "Desktop",
+            "valor_base": 100.0,
+            "extra": "Desktop"
+        }
+    },
+    {
+        "cliente": "Dara",
+        "descricao": "Reparo Geral",
+        "status": "Aberto",
+        "valor": 0.0,
+        "data_abertura": "24/04/2026 02:02",
+        "data_finalizacao": null,
+        "dispositivo": {
+            "tipo": "Computador",
+            "marca": "Positivo",
+            "modelo": "Notebook",
+            "valor_base": 50.0,
+            "extra": "Desktop"
+        }
+    }
+]
